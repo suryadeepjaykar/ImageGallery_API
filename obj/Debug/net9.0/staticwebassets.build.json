@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "auf24YlvRHw/D/+1fI5i0bTgWp7xKcLd9LoNub0W34o=",
+  "Source": "ImageGallery.API",
+  "BasePath": "_content/ImageGallery.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ImageGallery.API\\wwwroot",
+      "Source": "ImageGallery.API",
+      "ContentRoot": "D:\\Ang\\Angular\\ImageGallery\\ImageGallery.API\\wwwroot\\",
+      "BasePath": "_content/ImageGallery.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}
